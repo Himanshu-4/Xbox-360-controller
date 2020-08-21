@@ -17,7 +17,7 @@
 
 
 ### Aruino Xinput library :
- - this project is made posssible with the help of Dave Madison . He made a lot of interesting projects and  Xinput  is one of them . you can find more information of his project here [Xinput] 
+ - this project is made posssible with the help of Dave Madison . He made a lot of interesting projects and  Xinput  is one of them .you can find more information of his project here [Xinput] 
 - I included libraries , bootloaders , API and Arduino Sketchs in the repositry  
 - you can find more information about my project on my website 
 - Also i have uses PS2_x Library for communicating with the PS2 remote chip and fetching data of push buttons 
