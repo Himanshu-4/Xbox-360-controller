@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [Embedded system devlopment ][website]!
 - 🌱 I’m currently learning Embedded sysytems  🤣
-- 👯 I’m looking to collaborate with other content creators
+- 😆I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to riding bicycle in Hills and play guitar 
 
@@ -16,10 +16,10 @@
 
 
 
-### Aruino Xinput library :
+### Aruino Xinput library🎮🎮 :
  - this project is made posssible with the help of Dave Madison . He made a lot of interesting projects and  Xinput  is one of them .you can find more information of his project here [Xinput] 
 - I included libraries , bootloaders , API and Arduino Sketchs in the repositry  
-- you can find more information about my project on my website 
+- you can find more information about my projects on my [website] 
 - Also i have uses PS2_x Library for communicating with the PS2 remote chip and fetching data of push buttons 
 
 - you can find more information about this project on my [blog] 
