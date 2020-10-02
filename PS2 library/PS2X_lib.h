@@ -79,7 +79,7 @@ GNU General Public License for more details.
 
 #ifndef PS2X_lib_h
   #define PS2X_lib_h
-
+  
 #if ARDUINO > 22
   #include "Arduino.h"
 #else
