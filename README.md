@@ -1,7 +1,6 @@
 ### Hi there, I'm Himanshu [website] 👋
 
 [![Website](https://static.wixstatic.com/media/b72e83_e9962775feac4a14b98e0d64fe851dd9~mv2.png/v1/fill/w_75,h_75,al_c,q_85,usm_0.66_1.00_0.01/electicon.webp)](https://jangragi123.wixsite.com/elector)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Himanshu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Himanshu , currently i am learning Embedded system devlopment with RTOS , Embedded linux!
 
@@ -80,7 +79,7 @@
 
 
 [website]: https://jangragi123.wixsite.com/elector
-[twitter]: https://twitter.com/Himansh09278011
+[Twitter Follow]: https://twitter.com/Himansh09278011
 [youtube]: https://www.youtube.com/channel/UCN3tGWHhQYkys3unVZjlOLA?disable_polymer=true
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
 [linkedin]: https://www.linkedin.com/in/himanshu-jangra-b4865a180/
